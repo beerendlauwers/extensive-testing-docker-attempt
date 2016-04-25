@@ -14,3 +14,4 @@ dos2unix: converting file /opt/xtc//current/Var/Run/httpd.conf to Unix format ..
 Failed to get D-Bus connection: Operation not permitted
 Unable to restart httpd
 ```
+An issue was opened over at http://support.extensive-testing.org/extensivetesting/core-server/issues/5 .
