@@ -1,0 +1,6 @@
+#!/usr/bin/expect -f
+spawn ./install.sh
+expect "Are you sure to install the product? (yes or no) "
+send "yes\r"
+expect "Continue and go to the web interface"
+send "exit\r"
